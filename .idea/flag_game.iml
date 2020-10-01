@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../flag_game">
+      <excludeFolder url="file://$MODULE_DIR$/../flag_game/.tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/../flag_game/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../flag_game/temp" />
+      <excludeFolder url="file://$MODULE_DIR$/../flag_game/tmp" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
